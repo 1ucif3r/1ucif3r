@@ -4,7 +4,7 @@
 
 !-->
 
-<p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
+<p align=center><a href="https://github.com/1ucif3r"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
 
 <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
 
@@ -14,11 +14,11 @@
 cpp  
                                     void life(void)
                                     {
-                                      printf("Hi 👋, I'm Dipankar \n");
+                                      printf("Hi 👋, I'm Hritik \n");
                                       printf("A passionate kernel hacker from India \n");
                                       char currentlyLearning[] = "openWRT";
                                       char AskMeAbout[] = "Linux";
-                                      char ReachMeAt[] = "d.pal5050@gmail.com";
+                                      char ReachMeAt[] = "hritikkumbhar132.com";
                                       char FunFact[]  = "I don't have a girlfriend 😭";
                                     }
 
@@ -53,11 +53,11 @@ cpp
 --!>
 
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.deep5050" alt="Visitors">                     
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=1ucif3r.1ucif3r" alt="Visitors">                     
 </p>
 
 <p align="center">
 <a href="https://instagram.com/mr.robot_18/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.robot_18" height="20" width="20" /></a>
-<a href="https://fb.com/deep.neon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008549411115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="LUCIFER" height="20" width="20" /></a>
 </p>
 
