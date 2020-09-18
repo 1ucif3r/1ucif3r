@@ -40,7 +40,7 @@ cpp
    <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
   !--> 
   
-   <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p>
+   <p align=center><a href="https://github.com/1ucif3r"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p>
 
 
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1ucif3r&show_icons=true" alt="1ucif3r" /> </p>
