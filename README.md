@@ -8,8 +8,9 @@
 [![me@1ucif3r](https://img.shields.io/static/v1?label=me@1ucif3r&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:hritikkumbhar132@gmail.com)
   
   
-👨‍💻 20 Years old Developer  
-👨‍🎓 Studying Computer Science here in India  
+👨‍💻 20 Years old Developer
+👨‍💻 Ethical hacker || Web Developer || Python Programmer ||
+👨‍🎓 Studying Computer Science in NIST,Odisha,India  
 🚧 **Current Project:** [Comming Soon !](https://github.com/1ucif3r/)
 
 ⭐️ From [1ucif3r](https://github.com/1ucif3r)
