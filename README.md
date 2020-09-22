@@ -19,3 +19,4 @@
 ⭐️ From [1ucif3r](https://github.com/1ucif3r)
 
 [![HitCount](http://hits.dwyl.com/1ucif3r/1ucif3r.svg)](http://hits.dwyl.com/1ucif3r/1ucif3r)
+[![HitCount](http://hits.dwyl.com/1ucif3r/1ucif3r/1ucif3r.svg)](http://hits.dwyl.com/1ucif3r/1ucif3r/1ucif3r)
