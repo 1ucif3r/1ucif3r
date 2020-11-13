@@ -14,7 +14,7 @@
 
 👨‍🎓 Studying Computer Science in NIST,Odisha,India  
 
-🚧 **Current Project:** [FS-Logger](https://github.com/F-Society-Official/ogger)
+🚧 **Current Project:** [FS-Logger](https://github.com/F-Society-Official/FS-Logger)
 
 ⭐️ From [1ucif3r](https://github.com/1ucif3r)
 
