@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/1ucif3r/1ucif3r/blob/master/video/1.mp4" alt="Hacker GIF" width=200 height=200/>
+  <img src="https://github.com/1ucif3r/1ucif3r/blob/master/video/1.mp4" alt="Hacker" width=300 height=300/>
 </p>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=1ucif3r&show_icons=true">
 
