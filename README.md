@@ -1,5 +1,7 @@
 <p align="center">
-  <vdo src="https://github.com/1ucif3r/1ucif3r/blob/master/video/1.mp4" alt="Hacker" width=300 height=300/>
+  <video autoplay loop muted >
+    <source src="https://github.com/1ucif3r/1ucif3r/blob/master/video/1.mp4" type="video/mp4">
+    </video>
 </p>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=1ucif3r&show_icons=true">
 
