@@ -24,7 +24,7 @@
 
 👨‍🎓 Studying Computer Science in NIST,Odisha,India  
 
-🚧 **Current Project:** [LUCIFER TOOL](https://github.com/1ucif3r/LUCIFER)
+🚧 **Current Project:** [LUCIFER](https://github.com/1ucif3r/LUCIFER)
 
 ⭐️ From [1ucif3r](https://github.com/1ucif3r)
 
