@@ -24,7 +24,7 @@
 
 👨‍🎓 Studying Computer Science in NIST,Odisha,India  
 
-🚧 **Current Project:** [HRITIK](https://1ucif3r.github.io)
+🚧 **Current Project:** [D4RK4RMY](https://darkarmy.live)
 
 ⭐️ From [1ucif3r](https://github.com/1ucif3r)
 
