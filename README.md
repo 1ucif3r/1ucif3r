@@ -26,6 +26,8 @@
 
 🚧 **Current Project:** [D4RK4RMY](https://darkarmy.live)
 
+⭐️ Currently Learning [golang](https://go.dev/)
+
 ⭐️ From [1ucif3r](https://github.com/1ucif3r)
 
 
