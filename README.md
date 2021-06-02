@@ -5,7 +5,7 @@
 </p>
 
 
-- I'm a **Student** | **Programmer** | **Learner** 
+- I'm a **Student** | **Programmer** | **Ethical Hacker** 
 - Currently Learning **GoLang**, **Ruby**
 - Studying Computer Science in NIST,Odisha,India
 - **Current Project:** [D4RK4RMY](https://darkarmy.live)
