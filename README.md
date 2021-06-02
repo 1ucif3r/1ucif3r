@@ -9,7 +9,7 @@
 - Currently Learning **GoLang**, **Ruby**
 - Studying Computer Science in NIST,Odisha,India
 - **Current Project:** [D4RK4RMY](https://darkarmy.live)
-- **My Website:** [HRITIK](https://hritikkumbhar.in/)
+- **My Website:** [hritikkumbhar.in](https://hritikkumbhar.in/)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
