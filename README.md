@@ -1,4 +1,4 @@
-## Hi there, I'm Hritik Kumbhar 
+## Hi there, I'm Hritik Kumbhar 👋
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/cotton/50/000000/hacking.png"/>
@@ -39,6 +39,7 @@
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{1ucif3r}/count.svg)
 
+⭐️ From [1ucif3r](https://github.com/1ucif3r)
 
 
 
