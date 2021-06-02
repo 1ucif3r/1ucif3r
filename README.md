@@ -11,7 +11,8 @@
 - **Current Project:** [D4RK4RMY](https://darkarmy.live)
 - **My Website:** [HRITIK](https://hritikkumbhar.in/)
 
-![1ucif3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ucif3r&show_icons=true&theme=radical)<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=1ucif3r&show_icons=true&locale=en&layout=compact" alt="1ucif3r" />
+![1ucif3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ucif3r&show_icons=true&theme=radical) 
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=1ucif3r&show_icons=true&locale=en&layout=compact" alt="1ucif3r" />
 
 ### Feel Free to Contact me.....
 
