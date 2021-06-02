@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://img.icons8.com/ios-filled/150/000000/fsociety-qr.png"/>
+	<img src="https://img.icons8.com/windows/128/000000/hackerrank.png"/>
 </p>
 
 
