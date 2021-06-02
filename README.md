@@ -1,7 +1,7 @@
 ## Hi there, I'm Hritik Kumbhar 👋
 
 <p align="center">
-<img src="https://img.icons8.com/ios-filled/150/000000/fsociety-qr.png"/>
+<img src="https://img.icons8.com/ios-filled/500/000000/fsociety-qr.png"/>
 </p>
 
 
