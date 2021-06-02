@@ -1,7 +1,7 @@
 ## Hi there, I'm Hritik Kumbhar 👋
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/cotton/50/000000/hacking.png"/>
+<img src="https://img.icons8.com/ios-filled/150/000000/fsociety-qr.png"/>
 </p>
 
 
