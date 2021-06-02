@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg">
+<a href="https://hritikkumbhar.in">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+To+Meet+You+!;Hello+%2C+There+%F0%9F%91%8B;This+is+Hritik+...!&center=true&size=30">
   </a>
 </h1>
@@ -25,7 +25,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/1ucif3r/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ucif3r&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ucif3r&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
