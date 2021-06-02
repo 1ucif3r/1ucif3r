@@ -1,7 +1,6 @@
 ## Hi there, I'm Hritik Kumbhar 👋
 
 <p align="center">
-<img src="https://img.icons8.com/ios-filled/250/000000/fsociety-mask.png"/>
 	<img src="https://img.icons8.com/windows/256/000000/hackerrank.png"/>
 </p>
 
