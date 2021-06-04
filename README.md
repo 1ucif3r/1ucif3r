@@ -52,7 +52,7 @@
 	<img src="https://img.icons8.com/color/96/000000/linux.png"/>
 	<img src="https://img.icons8.com/color/96/000000/git.png"/>
 	<img src="https://img.icons8.com/color/96/000000/react-native.png"/>
-	<img arc="https://icons8.com/icon/101665/kali-linux"/>
+	<img src="https://img.icons8.com/color/96/000000/kali-linux.png"/>
 	
 </p>
 
