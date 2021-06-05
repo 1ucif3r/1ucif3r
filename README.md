@@ -7,7 +7,7 @@
 
 - I'm a **Student** | **Programmer** | **Ethical Hacker** 
 - Currently Learning **GoLang**, **Ruby**
-- Studying Computer Science in NIST,Odisha,India
+- Studying Computer Science Engineering
 - **Current Project:** [DarkSploit](https://github.com/D4RK-4RMY/DarkSploit)
 - **My Website:** [hritikkumbhar.in](https://hritikkumbhar.in/)
 
