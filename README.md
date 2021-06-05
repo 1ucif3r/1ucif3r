@@ -8,7 +8,7 @@
 - I'm a **Student** | **Programmer** | **Ethical Hacker** 
 - Currently Learning **GoLang**, **Ruby**
 - Studying Computer Science Engineering
-- **Current Project:** [DarkSploit](https://github.com/D4RK-4RMY/DarkSploit)
+- **Current Project:** [](https://github.com/1ucif3r)
 - **My Website:** [hritikkumbhar.in](https://hritikkumbhar.in/)
 
 <h2 align="center">⚡ Stats ⚡</h2>
