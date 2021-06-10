@@ -9,7 +9,7 @@
 - Currently Learning **GoLang**, **Ruby**
 - Studying Computer Science Engineering
 - **Current Project:** [](https://github.com/1ucif3r)
-- **My Website:** [hritikkumbhar.in](https://hritikkumbhar.in/)
+- **My Website:** [hritikkumbhar.me](https://hritikkumbhar.me/)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
