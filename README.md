@@ -6,7 +6,7 @@
 
 
 - I'm a **Student** | **Programmer** | **Ethical Hacker** 
-- Currently Learning **GoLang**, **Ruby**
+- Currently Learning **GoLang**
 - Studying Computer Science Engineering
 - **Current Project:** [](https://github.com/1ucif3r)
 - **My Website:** [hritikkumbhar.me](https://hritikkumbhar.me/)
