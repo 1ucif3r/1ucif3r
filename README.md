@@ -10,6 +10,7 @@
 - Studying Computer Science Engineering
 - **Current Project:** [](https://github.com/1ucif3r)
 - **Mail Ids:** th31ucif3r@pm.me || admin@hritikkumbhar.me
+- **Discord :** !                  LUCIFER#6969
 - **My Website:** [hritikkumbhar.me](https://hritikkumbhar.me/)
 
 <h2 align="center">⚡ Stats ⚡</h2>
