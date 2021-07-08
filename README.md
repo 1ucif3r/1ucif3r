@@ -8,10 +8,11 @@
 - I'm a **Student** | **Programmer** | **Ethical Hacker** 
 - Currently Learning **GoLang**
 - Studying Computer Science Engineering
-- **Current Project:** [](https://github.com/1ucif3r)
+- **Current Project:** [DeDSec DiscordBots](https://1ucif3r.xyz/)
 - **Mail Ids:** th31ucif3r@pm.me || admin@hritikkumbhar.me
 - **Discord :** !                  LUCIFER#6969
-- **My Website:** [hritikkumbhar.me](https://hritikkumbhar.me/)
+- **My Discord Bots :** [DeDSec DiscordBots](https://1ucif3r.xyz/)
+- **My Website:** [Hritik Kumbhar](https://hritikkumbhar.me//)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
