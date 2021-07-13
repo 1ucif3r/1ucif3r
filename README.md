@@ -10,7 +10,7 @@
 - Studying Computer Science Engineering
 - **Current Project:** [DeDSec DiscordBots](https://1ucif3r.xyz/)
 - **Mail Ids:** th31ucif3r@pm.me || admin@hritikkumbhar.me
-- **Discord :** [TeaMDeDSec](https://dsc.gg/teamdedsec)
+- **Discord :** [DEDSEC](https://dsc.gg/teamdedsec)
 - **My Discord Bots :** [DeDSec DiscordBots](https://1ucif3r.xyz/)
 - **My Website:** [Hritik Kumbhar](https://hritikkumbhar.me//)
 
