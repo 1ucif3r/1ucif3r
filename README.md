@@ -15,6 +15,9 @@
 - **My Website:** [Hritik Kumbhar](https://hritikkumbhar.me//)
 
 [![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner3)](https://discord.gg/TN3WseZk6s)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/524577404933505025
+                            )](https://discord.com/users/524577404933505025)
  
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
