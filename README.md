@@ -14,7 +14,9 @@
 - **My Discord Bots :** [DeDSec DiscordBots](https://1ucif3r.xyz/)
 - **My Website:** [Hritik Kumbhar](https://hritikkumbhar.me//)
 
-<p align=center> [![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://dsc.gg/teamdedsec)
+<h1 align="center">
+	[![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://dsc.gg/teamdedsec)
+	</h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
