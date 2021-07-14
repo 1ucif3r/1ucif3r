@@ -15,7 +15,7 @@
 - **My Website:** [Hritik Kumbhar](https://hritikkumbhar.me//)
 
 
-[Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/TN3WseZk6s)
+[![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/TN3WseZk6s)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
