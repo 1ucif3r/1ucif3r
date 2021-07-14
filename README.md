@@ -14,9 +14,8 @@
 - **My Discord Bots :** [DeDSec DiscordBots](https://1ucif3r.xyz/)
 - **My Website:** [Hritik Kumbhar](https://hritikkumbhar.me//)
 
-<iframe src="https://discord.com/widget?id=551687100412592128&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-[![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/TN3WseZk6s)
+[Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/TN3WseZk6s)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
