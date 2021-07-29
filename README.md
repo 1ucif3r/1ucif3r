@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-https://camo.githubusercontent.com/d87436EkRHLyviZMtSjodB4gByQJwyYxPmBE1x949304f1a767ad891b6c/68747470736EkRHLyviZMtSjodB4gByQJwyYxPmBE1xd656469636EkRHLyviZMtSjodB4gByQJwyYxPmBE1xf67697068792e676966
-
 
 - I'm a **Student** | **Programmer** | **Ethical Hacker** 
 - Currently Learning **GoLang**
