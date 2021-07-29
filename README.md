@@ -8,7 +8,7 @@
 - I'm a **Student** | **Programmer** | **Ethical Hacker** 
 - Currently Learning **GoLang**
 - Studying Computer Science Engineering
-- **Current Project:** [###](https://hritikkumbhar.me/)
+- **Current Project:** [DARKARMY](https://darkarmy.live/)
 - **Discord :** [DEDSEC](https://dsc.gg/teamdedsec)
 - **My Website:** [Hritik Kumbhar](https://hritikkumbhar.me//)
 
