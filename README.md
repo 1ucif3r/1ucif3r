@@ -12,7 +12,7 @@
 - **Discord :** [DEDSEC](https://dsc.gg/teamdedsec)
 - **My Website:** [hritikkumbhar.me](https://hritikkumbhar.me)
 
-[![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/ZzccCafPYC)
+<!-- [![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/ZzccCafPYC) -->
 
  
 <h2 align="center">⚡ Stats ⚡</h2>
