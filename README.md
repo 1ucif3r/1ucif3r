@@ -9,7 +9,7 @@
 - Currently Learning **GoLang**
 - Studying Computer Science Engineering
 - **Current Project:** [DARKARMY v2](https://darkarmy.live/)
-- **Discord :** [DEDSEC](https://dsc.gg/teamdedsec)
+<!-- **Discord :** [DEDSEC](https://dsc.gg/teamdedsec) -->
 - **My Website:** [hritikkumbhar.me](https://hritikkumbhar.me)
 
 <!-- [![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/ZzccCafPYC) -->
