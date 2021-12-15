@@ -68,8 +68,7 @@
 
 ⭐️ From [1ucif3r](https://github.com/1ucif3r)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/524577404933505025
-                            )](https://discord.com/users/524577404933505025)
+
 
 
 
