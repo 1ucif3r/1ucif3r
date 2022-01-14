@@ -40,7 +40,7 @@
 	<a href="https://github.com/1ucif3r"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/hritik-kumbhar-188b02165/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100008549411115"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/th3_1ucif3r/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://www.instagram.com/0x1ucif3r/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/th3_1ucif3r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 	<a href="https://discord.gg/TN3WseZk6s"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/></a>
 </p>
