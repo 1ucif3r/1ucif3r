@@ -8,7 +8,7 @@
 - I'm a **Student** | **Programmer** | **Ethical Hacker** 
 - Currently Learning **GoLang**
 - Studying Computer Science Engineering
-- **Current Project:** [DARKARMY v2](https://darkarmy.live/)
+- **Current Project:** [DARKARMY](https://darkarmy.live/)
 - **My Website:** [1ucif3r.me](https://1ucif3r.me)
 
 <!-- [![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/ZzccCafPYC) -->
