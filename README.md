@@ -5,10 +5,10 @@
 </h1>
 
 
-- I'm a **Student** | **Programmer** | **Ethical Hacker** 
-- Currently Learning **GoLang**
+- 👨🏼‍💻 I'm a **Student** | **Programmer** | **Ethical Hacker** 
+- 💠 Currently Learning **GoLang**
 - 📫 How to reach me: 0x1ucif3r@gmail.com
-- 🔹 **Current Project:** [DDoS Script](https://1ucif3r.me/)
+- ⭕️ **Current Project:** [DDoS Script](https://1ucif3r.me/)
 - 🌐 **On the Internet** : [Website](https://1ucif3r.me), [InstaGram](https://www.instagram.com/0x1ucif3r/), [Linkedin](https://www.linkedin.com/in/hritik-kumbhar-188b02165/)
 
 
