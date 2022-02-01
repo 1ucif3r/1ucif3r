@@ -7,9 +7,11 @@
 
 - I'm a **Student** | **Programmer** | **Ethical Hacker** 
 - Currently Learning **GoLang**
-- Studying Computer Science Engineering
-- **Current Project:** [DDoS Script](https://1ucif3r.me/)
-- **My Website:** [1ucif3r.me](https://1ucif3r.me)
+- 📫 How to reach me: 0x1ucif3r@gmail.com
+- 🔹 **Current Project:** [DDoS Script](https://1ucif3r.me/)
+- 🌐 **On the Internet** : [Website](https://1ucif3r.me), [InstaGram](https://www.instagram.com/0x1ucif3r/), [Linkedin](https://www.linkedin.com/in/hritik-kumbhar-188b02165/)
+
+
 
 <!-- [![Community](https://discord.com/api/guilds/551687100412592128/widget.png?style=banner2)](https://discord.gg/ZzccCafPYC) -->
 
