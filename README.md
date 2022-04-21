@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+To+Meet+You+!;Hello+%2C+There+%F0%9F%91%8B;I+am+Hritik+...!&center=true&size=30">
   </a>
 </h1>
-=======================
+
 
 👨🏼‍💻 I'm a Student | Programmer | Ethical Hacker
 
