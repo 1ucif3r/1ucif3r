@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/1ucif3r?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![1ucif3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ucif3r&show_icons=true&theme=radical)
 
 <a href="http://www.github.com/1ucif3r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=1ucif3r&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
