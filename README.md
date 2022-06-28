@@ -10,7 +10,7 @@
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [1ucif3r.me](http://1ucif3r.me)
 * ✉️  You can contact me at [0x1ucif3r@gmail.com](mailto:0x1ucif3r@gmail.com)
-* 🚀  I'm currently working on [Obfuscator](https://github.com/1ucif3r/Obfuscator)
+* 🚀  I'm currently working on [ Practicing ](https://www.instagram.com/0x1ucif3r/)
 * 🧠  I'm learning Golang
 
 <a href="https://www.twitter.com/0x1ucif3r" target="_blank" rel="noreferrer"><img
