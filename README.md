@@ -9,7 +9,7 @@
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [1ucif3r.me](http://1ucif3r.me)
-* ✉️  You can contact me at [0x1ucif3r@gmail.com](mailto:0x1ucif3r@gmail.com)
+* ✉️  You can contact me at [anon1ucif3r@proton.me](mailto:anon1ucif3r@proton.me)
 * 🚀  I'm currently working on [ DARKARMY ](https://github.com/D4RK-4RMY/DARKARMY)
 * 🧠  I'm learning Golang
 
