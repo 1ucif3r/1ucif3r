@@ -7,8 +7,8 @@
 
 👨🏼‍💻 I'm a Student | Programmer | Ethical Hacker
 
-* 🖥️  See my portfolio at [1ucif3r.me](http://1ucif3r.me)
-* ✉️  You can contact me at [anon1ucif3r@proton.me](mailto:anon1ucif3r@proton.me)
+* 🖥️  See my portfolio at [lucifer.sh](http://lucifer.sh)
+* ✉️  You can contact me at [luci@lucifer@sh](mailto:luci@lucifer.sh)
 * 🚀  I'm currently working on [ DARKARMY ](https://github.com/D4RK-4RMY/DARKARMY)
 * 🧠  I'm learning Golang
 
