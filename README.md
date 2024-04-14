@@ -9,7 +9,7 @@
 
 * 🖥️  See my portfolio at [lucifer.sh](http://lucifer.sh)
 * ✉️  You can contact me at [luci@lucifer@sh](mailto:luci@lucifer.sh)
-* 🚀  I'm currently working on [ DARKARMY ](https://github.com/D4RK-4RMY/DARKARMY)
+* 🚀  I'm currently working on [ LUMIN ](https://github.com/1ucif3r/Lumin)
 * 🧠  I'm learning Golang
 
 <a href="https://www.twitter.com/0x1ucif3r" target="_blank" rel="noreferrer"><img
